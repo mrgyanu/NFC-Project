@@ -1,16 +1,16 @@
 # NFC-Payment System
 
-This project was developed to enhance the current payment system used in the cafeteria at Caleb University, located in Lagos, Nigeria.
+This project was developed to enhance the current payment system.
 
 The aims of this project are to:
 
 - Reduce the time it takes for students to pay for their meals.
-- Reduce the need for students to carry cash with them by limiting the number of times they have to go to the ATM.
+- Reduce the need for people to carry cash with them by limiting the number of times they have to go to the ATM.
 
 The objectives of the system are to:
 
 - Streamline the payment process for students, making it faster and more efficient.
-- Provide a more convenient and secure way for students to pay for their meals, reducing the need to carry cash on campus.
+- Provide a more convenient and secure way for students to pay for their meals, reducing the need to carry cash.
 
 Languages Used for this projects are:
 
