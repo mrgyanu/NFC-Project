@@ -115,22 +115,4 @@ When logged in as a student, the student can see his/her account balance, see tr
 ![student-view](https://user-images.githubusercontent.com/48515473/211169058-ecbff2bf-58a1-4668-ab5e-33b68801856e.jpg)
 
 
-## Name of Contributors
 
-- Somade Daniel O.
-- kenneth Chidiebele P.
-- Amaeshi Osinachi N.
-- Eziemefe Paul E.
-- Salami Kehinde T.
-- Omooba Ademola
-- Ajani Boluwatife
-- Ojo Fiyinfoluwa I.
-- Ogunlusi Oluwasegun S.
-- Adewole Oluwatobi B.
-- Atte Nimibofa D.
-- Julius David O.
-- George Sophie A.
-- Adesotu Nancy O.
-- Oguafor Michael I.
-
-Thank you for reading through this project. Please note that this is a prototype of our solution and there are certain aspects that can be improved. We welcome contributions and suggestions to improve the system.
